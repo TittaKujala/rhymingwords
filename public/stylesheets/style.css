@@ -1,0 +1,30 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  background-color: rgb(255, 251, 236);
+}
+
+a {
+  color: #00B7FF;
+}
+
+td {
+  border: 0.5px solid rgb(224, 221, 221);
+  padding: 8px;
+}
+
+input {
+  font-size: 15px;
+  padding: 5px;
+}
+
+button {
+  font-size: 15px;
+  padding: 5px;
+}
+
+h1 {
+  color:rgb(80, 70, 70);
+  font-family: Poppins;
+  font-size: 28px;
+}
