@@ -1,5 +1,5 @@
 let word = document.getElementById('word');
-const address = 'http://localhost:3000/api/words';
+const address = '/api/words';
 
 document.getElementById('button').onclick = () => {
 
